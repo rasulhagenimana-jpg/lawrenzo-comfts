@@ -1,0 +1,6 @@
+{
+  "name": "PhotoVault",
+  "description": "Your Memories. Digitally Preserved. Free online photo digitization platform.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
